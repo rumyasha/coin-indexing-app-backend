@@ -183,5 +183,4 @@ MIT © 2025 @vvizardev
 
 ## 📬 Contact
 
-- Telegram: [@vvizardev](https://t.me/vvizardev)
-- Twitter: [@wizardev_sol](https://x.com/wizardev_sol)
+- Telegram: [@heaven9099](https://t.me/heaven9099)
